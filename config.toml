@@ -6,7 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-footnotereturnlinkcontents = "↩"
+footnotereturnlinkcontents = "?"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
@@ -36,10 +36,6 @@ footnotereturnlinkcontents = "↩"
     name = "行程"
     url = "/个人行程/"
     weight = 6
-[[menu.main]]
-    name = "K12 教育"
-    url = "/k12/"
-    weight = 6	
 
 [params]
 # 千秋邈矣独留我，百战归来再读书
