@@ -34,7 +34,7 @@ footnotereturnlinkcontents = "?"
     weight = 5
 [[menu.main]]
     name = "行程"
-    url = "/schedule/"
+    url = "/schedule.html"
     weight = 6
 
 [params]
