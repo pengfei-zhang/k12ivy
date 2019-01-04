@@ -49,7 +49,7 @@ footnotereturnlinkcontents = "?"
 [params]
 # 千秋邈矣独留我，百战归来再读书
 	description = "k12普惠教育推动者"
-    footer = "© [Pengfei Zhang](https://pfzhang.com) 2017 - 2019 [Twitter](https://twitter.com/aisongshu) | [微博](http://weibo.com/6885419967) | [微信](../2018-10-30_095413.jpg)"
+    footer = "&copy; [Pengfei Zhang](https://pfzhang.com) 2017 - 2019 [Twitter](https://twitter.com/aisongshu) | [微博](http://weibo.com/6885419967) | [微信](../2018-10-30_095413.jpg)"
 
 #[[menu.main]]
 #    name = "简历"
