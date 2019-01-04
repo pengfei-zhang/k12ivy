@@ -37,6 +37,15 @@ footnotereturnlinkcontents = "?"
     url = "/schedule.html"
     weight = 6
 
+[[menu.main]]
+    name = "  "
+    url = "//"
+    weight = 7
+[[menu.main]]
+    name = "版权"
+    url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    weight = 8
+
 [params]
 # 千秋邈矣独留我，百战归来再读书
 	description = "k12普惠教育推动者"
