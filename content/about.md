@@ -1,6 +1,6 @@
 ---
 title: 关于
-# author: 张鹏飞
+author: 张鹏飞
 toc: true
 ---
 
