@@ -60,7 +60,6 @@ enableGitInfo = false
     highlightjsTheme = "github"
     dateFormat = "2006-01-02" # "2006-01-02, Mon, "
 
-
 #[[menu.main]]
 #    name = "简历"
 #    url = "/个人简历-张鹏飞-20180822.html"
