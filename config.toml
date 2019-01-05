@@ -6,9 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-enableEmoji: true
-footnotereturnlinkcontents = "↩"
-enableGitInfo = false
+footnotereturnlinkcontents = "?"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
