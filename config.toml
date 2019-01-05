@@ -1,12 +1,12 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "pfzhang | 张鹏飞"
+title = "张鹏飞"
 theme = "hugo-ivy"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-footnotereturnlinkcontents = "?"
+footnotereturnlinkcontents = "↩"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
@@ -52,6 +52,7 @@ footnotereturnlinkcontents = "?"
 
     customJS = ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
 
+    # 加一段
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
     highlightjsLang = ["r", "yaml", "tex"]
