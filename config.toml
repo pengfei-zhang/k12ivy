@@ -7,7 +7,8 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 enableEmoji: true
-footnotereturnlinkcontents: "↩"
+footnotereturnlinkcontents = "↩"
+enableGitInfo = false
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
@@ -50,6 +51,15 @@ footnotereturnlinkcontents: "↩"
 # 千秋邈矣独留我，百战归来再读书
     description = "k12普惠教育推动者"
     footer = "&copy; [Pengfei Zhang](https://pfzhang.com) 2017 - 2019 [Twitter](https://twitter.com/aisongshu) | [微博](http://weibo.com/6885419967) | [微信](../2018-10-30_095413.jpg)"
+
+    customJS = ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsLang = ["r", "yaml", "tex"]
+    highlightjsTheme = "github"
+    dateFormat = "2006-01-02" # "2006-01-02, Mon, "
+
 
 #[[menu.main]]
 #    name = "简历"
