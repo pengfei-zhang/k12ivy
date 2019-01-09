@@ -1,4 +1,4 @@
-baseurl = "/"
+﻿baseurl = "/"
 languageCode = "en-us"
 title = "张鹏飞"
 theme = "hugo-ivy"
@@ -6,7 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-footnotereturnlinkcontents = "?"
+footnotereturnlinkcontents = "↩"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
