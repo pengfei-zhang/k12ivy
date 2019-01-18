@@ -45,9 +45,13 @@ footnotereturnlinkcontents = "↩"
     url = "https://docs.qq.com/form/fill/DV0hma3JabFdya0Z4?isCreator=1#/fill"
     weight = 8
 [[menu.main]]
+    name = "文档下载"
+    url = "doc_down"
+    weight = 9
+[[menu.main]]
     name = "版权"
     url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    weight = 9
+    weight = 10
 
 [params]
 # 千秋邈矣独留我，百战归来再读书
