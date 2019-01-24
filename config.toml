@@ -6,7 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-footnotereturnlinkcontents = "↩"
+footnotereturnlinkcontents = "?"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
@@ -33,7 +33,7 @@ footnotereturnlinkcontents = "↩"
     url = "/Zguestbook/"
     weight = 5
 [[menu.main]]
-    name = "行程"
+    name = "行程/预约"
     url = "/schedule.html"
     weight = 6
 [[menu.main]]
@@ -46,7 +46,7 @@ footnotereturnlinkcontents = "↩"
     weight = 8
 [[menu.main]]
     name = "文档下载"
-    url = "doc_down"
+    url = "/doc_down/"
     weight = 9
 [[menu.main]]
     name = "版权"
